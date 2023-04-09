@@ -1,0 +1,115 @@
+Friends
+
+Food
+    DO NOT FEED:
+        Grapes/Raisins
+        Onion
+        Garlic
+        Lily Plant
+        Chocolate
+        Macadamia Nuts
+        Corn Cob
+        Any Artificial Sweetener
+        Alchohol
+        Cooked Bones
+        Caffine
+        Persimmons
+        Peaches
+        Plums
+    Limit:
+        Sugar
+        Salt
+        Dairy
+    Meal:
+        Rice
+        Chopped Veggies (White Button Mushrooms, Tomatoes, Cucumbers, Zuccini, Spinach, Bell Peppers, Corn, Broccoli, Cauliflower)
+        Meat (Liver, Chicken Hearts, Chicken Breast)
+        Eggs
+    Backup Food:
+        Canned Food
+        Food Pouches
+    Treats:
+        Highest Value:
+            Fresh Meat
+            Dairy
+        High Value:
+            Dried Meat
+            Large Treats
+        Normal Treats:
+            Duck Rolls
+            Dental Treats
+            Jerkey
+            Any Small Treat
+        
+
+Transportation
+    Bus: Scared (muzzle required but rarely enforced)
+    Train: OK (muzzle required but rarely enforced)
+    Tram: OK (muzzle required but rarely enforced)
+    Car: Loves It
+
+Triggers
+
+Toys
+    Loves:
+        Pig With Rope
+        Grey Seal Squeaky
+        Blue Penguin Squeaky
+    Likes To Chew:
+        Coffee Wood Stick
+        Plastic Horn
+        Pig with Rope
+    
+
+Vocabulary
+    Sit
+    Lie Down
+    Hand
+    High Five
+    Come Here
+    Turn Around
+    Watch Out
+    Over Here
+    Stop
+    Wait
+    Stay
+    Up
+    Down
+    Dance
+    Friend
+    No
+    Hide And Seek
+    Drive
+    Walk
+    Restaurant
+    Shopping
+    Milk
+    Yogurt
+    Chicken
+    Food
+    Egg
+    Water
+    Play
+    Got To Bed
+    Cuddle
+    Muzzle
+    Shower
+    Wash Your Feet
+    Free
+    Run 
+    Go/Run To 
+    Mommy
+    Daddy
+    Home
+    Flip
+    Feet/Foot
+    Bad Food
+    Good Girl
+    It's Ok
+    Park
+    Work
+    City
+    Car
+    Sleep
+    Marble Time
+    Bye Bye
