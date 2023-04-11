@@ -62,6 +62,7 @@ Toys
     
 
 Vocabulary
+    Marble: Her name. She responds 
     Sit
     Lie Down
     Hand
@@ -113,3 +114,10 @@ Vocabulary
     Sleep
     Marble Time
     Bye Bye
+    Say Bye Bye
+    Good Morning
+    Harness Off/On
+    Poop
+    Do you want ____?
+    Shake
+    Okay
