@@ -121,3 +121,4 @@ Vocabulary
     Do you want ____?
     Shake
     Okay
+    Finished
