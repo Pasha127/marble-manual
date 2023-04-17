@@ -1,4 +1,5 @@
 Friends
+    Mish Mish: About marble's size and looks like 
 
 Food
     DO NOT FEED:
@@ -73,6 +74,7 @@ Vocabulary
     Over Here
     Stop
     Wait
+    Wait for Mommy, Daddy, _____
     Stay
     Up
     Down
@@ -122,3 +124,5 @@ Vocabulary
     Shake
     Okay
     Finished
+    Towel
+    Jump
