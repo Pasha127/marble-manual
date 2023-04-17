@@ -1,0 +1,173 @@
+{
+"Friends": {
+    "MishMish": "About marble's size and looks like"
+},
+"Food": {
+    "No": [
+        "Grapes/Raisins",
+        "Onion",
+        "Garlic",
+        "Lily Plant",
+        "Chocolate",
+        "Macadamia Nuts",
+        "Corn Cob",
+        "Any Artificial Sweetener",
+        "Alchohol",
+        "Cooked Bones",
+        "Caffine",
+        "Persimmons",
+        "Peaches",
+        "Plums"
+    ],
+    "Limit": [
+        "Sugar",
+        "Salt",
+        "Dairy"
+    ],
+    "Meal": [
+        "Rice",
+        "Chopped Veggies (White Button Mushrooms, Tomatoes, Cucumbers, Zuccini, Spinach, Bell Peppers, Corn, Broccoli, Cauliflower)",
+        "Meat (Liver, Chicken Hearts, Chicken Breast)",
+        "Eggs"
+    ],
+    "Backup": [
+        "Canned Food",
+        "Food Pouches"
+    ],
+"Treats": {
+    "HighestValue": [
+        "Fresh Meat",
+        "Dairy"
+    ],
+    "HighValue": [
+        "Dried Meat",
+        "Large Treats"
+    ],
+    "NormalTreats": [
+        "Duck Rolls",
+        "Dental Treats",
+        "Jerkey",
+        "Any Small Treat"
+    ]
+    }
+},
+"Transportation": {
+    "Bus": "Scared (muzzle required but rarely enforced)",
+    "Train": "OK (muzzle required but rarely enforced)",
+    "Tram": "OK (muzzle required but rarely enforced)",
+    "Car": "Loves It",
+    "Escalator": "OK, but you should carry her if possible because the teeth at the top and bottom can be dangerous",
+    "Elevator": "OK"
+},
+"Triggers": [
+    "large unfamiliar dogs",
+    "big black dogs",
+    "large dogs that are overly friendly",
+    "dogs that are overly aggressive",
+    "dogs that are too close in a confined space",
+    "the vet",
+    "the bus"
+],
+"Toys": {
+    "Loves": [
+        "Pig With Rope",
+        "Grey Seal Squeaky",
+        "Blue Penguin Squeaky"
+    ],
+    "Likes To Chew": [
+        "Coffee Wood Stick",
+        "Plastic Horn",
+        "Pig with Rope"
+    ]
+},
+"BodyLanguage":{
+    "Squinting": "She is asking 'PLEASE'.",
+    "EyesWide": "She is very interested in eating, hunting, playing with or defending. Be careful with very wide eyes with other dogs",
+    "TailUp": "She is happy, excited, or interested in something.",
+    "TailDown": "She is sad, scared, or tired.",
+    "TailWagging": "She is happy, excited, or interested in something.",
+    "NeckFurUp": "She is scared, cautious or angry.",
+    "SpineFurUp": "She is very scared and will defend herself if cornered.",
+    "EarsBack": "She is happy or epecting pets.",
+    "EarsForward": "She is neutral, listening or interested.",
+    "PlayBow": "She is happy and wants to play.",
+    "PlayGrowl": "She is happy and is trying to get the other party to play.",
+    "PlayBite": "She is happy and is trying to get the other party to play.",
+    "ShowingTeeth": "She is angry or scared.",
+    "ShowingTeethGrowling": "She is pissed or very scared and intends to defend herself shortly.",
+    "Barking": "Someone is at the door or she is excited.",
+    "RepeatedBarking": "She is trying to scare off someone or something.",
+    "Whining": "She never whines. If she wines it is because she is hurt or sick and should be met with serious attention.",
+    "Yelping": "She is hurt or sick and should be met with serious attention. However sometimes she helps if she is scared that something is about to hurt her. Like if a big dog knocked her over while playing.",
+    "HandOnYou": "She is asking for treats/food.",
+    "JumpingOnYou": "If you have food or she hasn't seen you in a long time it's excitement. If she starts jumping on you when you are sitting down it's a sign that she wants to poop really badly."
+},
+"Vocabulary": {
+    "Marble": "Her name. She responds with eye contact. Can also be called to you with this name.",
+    "Sit": "She will sit on command. She will also sit on command when a flat hand is shown palm down and moved up and down.",
+    "LieDown": "She will lie down on command. She will also lie down on command when two flat hands are shown palm down and moved up and down.",
+    "Hand": "She will give you her paw on command. She will also give you her paw on command when a flat hand is shown palm up.",
+    "HighFive": "She will give you a high five on command. She will also give you a high five on command when a flat hand is shown palm forward.",
+    "ComeHere": "She will usually come to you on command. She will also come to you on command when a flat hand is slapped against the thigh or waved over with the palm down.",
+    "TurnAround": "She will turn around on command. She will also turn around on command when a finger is shown pointed down and moved in a circle.",
+    "OverHere": "She will come to you on command or switch direction to match your direction.",
+    "WatchOut": "Say watch out if you need her to move out of the way.",
+    "Stop": "She will stop on command while walking. I normally use this command when coming to a crosswalk and we need to wait for a car.",
+    "Wait": "She will wait on command. I normally use this command when talling her to wait for food or to eat a treat. I then let her go or eat with 'Okay'. It is also used in conjunction with 'Stay'.",
+    "WaitForSomeone": "She will wait for someone on command. I normally use this command when I need her to wait for someone to catch up to us after walking ahead.",
+    "Stay": "She will stay on command. I normally use this command when I need her to stay in one place while I go to the bathroom or go shopping. She will also stay on command when I hold my index finger up.",
+    "Up": "She understands it as telling her to go higher. I normally use this command when I need her to go up stairs or onto something like a chair or elevated place.",
+    "Down": "She understands it as telling her to go lower. I normally use this command when I need her to go down stairs or off something like a chair or elevated place.",
+    "Dance": "She will stand on two legs and give me her two front paws. I normally use this command when I need her to dance for a treat. She also does this when I hold out two open hands with palms face up and move them up and down.",
+    "No": "She understands it as telling her to stop doing something or not to do something she's about to do. I normally use this command when I need her to stop doing something like jumping on someone or eating something she shouldn't.",
+    "HideAndSeek": "She understands it as telling her to stay in one place and not move. I normally use this command when I need her to stay in one place while I hide and then call her to find me. I give her a small piece of a treat each time she finds me.",
+    "Drive": "She understands it as telling her we will go somewhere by car. I normally use this command when I offer to take her somewhere in the car.",
+    "Walk": "She understands it as telling her we will go somewhere on foot. I normally use this command when I offer to take her on a walk around our area.",
+    "Restaurant": "She understands it as telling her we will go somewhere to eat. I normally use this command when I offer to take her to a restaurant.",
+    "Shopping": "She understands it as telling her we will go somewhere to shop. I normally use this command when I offer to take her to a store/the mall.",
+    "Milk": "She loves milk. She understands it comes out of the milk carton and will lick the carton after I bring it home from the store.",
+    "Yogurt": "She loves yogurt. She understands it comes out of the yogurt container and will lick clean anything containing yogurt.",
+    "Chicken": "She loves chicken. She understands it comes out of the fridge and it is a great high value treat.",
+    "Food": "She responds very strongly to this word. I normally use this command when I offer her a meal.",
+    "Egg": "She likes eggs and omlets.",
+    "Water": "She understands water, but refuses to drink on command. She will drink if she is thirsty.",
+    "Play": "She understands play, but doesn't associate it with a specific toy. She will wait for you to initiate play.",
+    "GotToBed": "She understands it as telling her it is time to go to her crate. I normally use this command when I need her to go to bed or if I need her to go into her crate.",
+    "Cuddle": "She understands it as the act of cuddling on the bed.",
+    "GoodMorning": "She understands it as telling her it is morning time and she loves to cuddle in the morning.",
+    "Muzzle": "She understands it as telling her to put on her muzzle. I normally use this command when I need her to put on her muzzle at the vet, public transit or the mall.",
+    "Shower": "She dreads the shower. She understands it as telling her to go into the shower. Recently I have had luck with telling her to just go into the bathroom and she will go into the bathroom. However, she must be picked up a nd put in the tub. If she feels she is clean she will need convincing but if she feels dirty she should put up too much resistance.",
+    "WashYourFeet": "She understands it as telling her to wash her feet. I normally use this command when I need her to wash her feet after going outside and her feet got muddy. She will usually go into the bathroom and wash her feet on command if they are dirty.",
+    "Free": "She understands it as telling her she is free to run off leash. I normally use this command when I unhook her leash.",
+    "Run": "She loves to run. She will often look up at me and ask to run when we are walking together. I also use this command when I need her to run with me to avoid danger.",
+    "GoRunTo": "She understands Got to Mommy or run to Mommy as telling her to run to someone.",
+    "Mommy": "Christie is who she associates with Mommy. She will start looking around to try to find her if you say it without Christie around.",
+    "Daddy": "Pasha is who she associates with Daddy. She will start looking around to try to find him if you say it without Pasha around. She may even sit down and refuse to leave.",
+    "Friend": "She understands it as telling her a friendly dog is nearby. I normally use this command when I need her to go to understand an approaching dog is friendly or if I recognize one of her friends before she does.",
+    "Home": "Our apartment.",
+    "Flip": "She understands it as telling her to flip over. I normally use this command when I need her to flip over on her back to get her belly rubbed while on the bed.",
+    "Foot": "She understands it as one of her back paws.",
+    "BadFood": "She understands it as telling her not to eat something. I normally use this command when I need her to stop eating something she shouldn't.",
+    "GoodGirl": "She gets visibly excited when I say this. I normally use this to praise her if she's had too many treats or I ran out.",
+    "ItsOk": "She understands it as telling her it's okay. I normally use this command when I need her to stop being afraid.",
+    "Park": "She loves the park. She understands it as telling her we will go to the park. I normally use this command when I offer to take her to the valley behind our complex.",
+    "Work": "She understands it as telling her will go to work or have work to do at home and can't be distracted. I normally use this command when I need to focus.",
+    "City": "She understands it as telling her we will go to the city. I normally use this command when I offer to take her to the city.",
+    "Car": "She understands it as a word for a car. I normally use this command to convince her to walk in a direction towards our car. She will often refuse to walk towrd the streets that scare her, but if you tell her you are going to the car she will walk towards the car.",
+    "Sleep": "She understands it as telling her to go to sleep. I normally use this command when I need her to go to sleep.",
+    "MarbleTime": "Cuddle",
+    "ByeBye": "She understands it as a conversation ending. I normally use this word at the end of video calls and she comes running.",
+    "SayByeBye": "She understands it as telling her to say bye bye. I normally use this command when I need her to say bye bye to someone.",
+    "HarnessOffOn": "She understands it as telling her to put on or take off her harness. I normally use this command when I need her to put on or take off her harness before or after a walk.",
+    "Poop": "She understands it as telling her to poop. She understands but doesn't usually respond to this command.It's more useful as a question to see why she wants your attention. If She really needs to poop she will say yes.",
+    "DoYouWantSomething": "This command is usually used as a question to see why she wants your attention. She will often say yes to an offer by licking you if you ask about the thing she wants.",
+    "Shake": "She only responds to this command if she is wet or really dirty. She understands it as shaking off excess water or dirt.",
+    "Okay": "She understands it as telling her it's okayto do something.",
+    "Finished": "She understands it as telling her something is finished or gone. I normally use this word at the end of a shower, when it's time to stop playing with a friend ir when I run out of food/treats.",
+    "Towel": "She understands it as telling her to let me dry her off with a towel. I normally use this command when I need her to dry off after a shower or after the rain.",
+    "Jump": "She understands it as telling her to jump. I normally use this command when I need her to jump over a ditch or something dangerous like the end or a moving walkway."
+}
+}
+
+
+
