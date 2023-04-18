@@ -26,15 +26,35 @@
                 "Image": "",
                 "Owner": "An English speaking Czech family that lived in Italy for a while."    
             },
-        "UnknownBrderCollie": {"Relationship": "Friend.",
+        "UnknownBorderCollie": {"Relationship": "Friend.",
                 "Description": "A Border Collie. She is very friendly and will play and run with Marble for a long time if her owners are just hanging out outside. She is often running around outside with the daughters.",
                 "Image": "",
-                "Owner": "A nice older Czech couple that doesn't speak English."
-                
+                "Owner": "A nice older Czech couple that doesn't speak English."                
+            },
+        "Taro": {"Relationship": "Friend.",
+                "Description": "A Shiba. He is very friendly and will play and wrestle with Marble for a long time if his owner has time. He often lies down on the ground when he sees Marble and waits until she runs over and jumps on him.",
+                "Image": "",
+                "Owner": "A pair of Czech-Vietnamese brothers that live upstairs. Usually it is the youngest, Jacob, that is outside with Taro. He speaks English and is very nice but kind of brooding (Teenager)."                
+            },
+        "Mac": {"Relationship": "Friend.",
+                "Description": "A Shiba. He is very friendly and will run and wrestle with Marble for a long time if his owner has time. His owner sometimes lets him off leash (if they are in an enclosed space) and lets them run around.",
+                "Image": "",
+                "Owner": "A young Czech couple that live in the Central Block. They are very nice but don't really speak English."                
             }
-        
-        
-    }
+    },
+    "People":{
+        "TankovnaWaiters":{
+            "Relationship": "Friend.",
+            "Description": "The waiters at the restaurant next door. They are very nice and most speak English. They are always happy to see Marble and will give her treats.",
+            "Image": ""
+        },
+        "Dori": {
+            "Relationship": "Friend.",
+            "Description": "Christie's Polish friend. She is very nice and speaks English. She is always happy to see Marble and will give her treats.",
+            "Image": ""
+        }
+     }
+
 },
 "Food": {
     "No": [
@@ -143,7 +163,7 @@
     "Marble": "Her name. She responds with eye contact. Can also be called to you with this name.",
     "Sit": "She will sit on command. She will also sit on command when a flat hand is shown palm down and moved up and down.",
     "LieDown": "She will lie down on command. She will also lie down on command when two flat hands are shown palm down and moved up and down.",
-    "Hand": "She will give you her paw on command. She will also give you her paw on command when a flat hand is shown palm up.",
+    "Hand": "She will give you her paw on command. She will also give you her paw on command when a flat hand is shown palm up. This command is also used to tell her to move her front paw if the leash is wrapped around it.",
     "HighFive": "She will give you a high five on command. She will also give you a high five on command when a flat hand is shown palm forward.",
     "ComeHere": "She will usually come to you on command. She will also come to you on command when a flat hand is slapped against the thigh or waved over with the palm down.",
     "TurnAround": "She will turn around on command. She will also turn around on command when a finger is shown pointed down and moved in a circle.",
@@ -183,7 +203,7 @@
     "Friend": "She understands it as telling her a friendly dog is nearby. I normally use this command when I need her to go to understand an approaching dog is friendly or if I recognize one of her friends before she does.",
     "Home": "Our apartment.",
     "Flip": "She understands it as telling her to flip over. I normally use this command when I need her to flip over on her back to get her belly rubbed while on the bed.",
-    "Foot": "She understands it as one of her back paws.",
+    "Foot": "She understands it as one of her back paws. Useful for when she has the leash wrapped around it or when she needs to put on a shoe for medical reasons.",
     "BadFood": "She understands it as telling her not to eat something. I normally use this command when I need her to stop eating something she shouldn't.",
     "GoodGirl": "She gets visibly excited when I say this. I normally use this to praise her if she's had too many treats or I ran out.",
     "ItsOk": "She understands it as telling her it's okay. I normally use this command when I need her to stop being afraid.",
