@@ -1,6 +1,40 @@
 {
-"Friends": {
-    "MishMish": "About marble's size and looks like"
+"Relationships": {
+    "Dogs":{
+        "MishMish": {"Relationship": "Friend.",
+                    "Description": "About marble's size who has German Shepard coloration but Collie/Pomeranian features. She will play tag with her until the clock runs out.",
+                    "Image": "",
+                    "Owner":"An Israeli couple who live in the North Block. They are very nice and speak English. The Husband Prefers Russian. The Wife prefers English because she grew up in Boston(?). "
+                },
+        "Charlie": {"Relationship": "Aquaintence.",
+                    "Description": "A small tempermental brown and white dog that's about the size of my foot. Sometimes she plays with him sometimes she growls at him. They never fight.",
+                    "Image": "",
+                    "Owner":"Neither husband nor wife speak English. They are very nice but don't really care to try and socialize."
+                },
+        "Leksi": {"Relationship": "Friend.",
+                "Description": "A Sheltie. She plays with Marble on leash for short periods but they usually don't get to play very long.",
+                "Image": "",
+                "Owner":"A Russian speaking couple. The husband is from Kazakstan and is rude. The wife is larger and looks Asian. She also speaks perfect English. She is from Uzbekistan and is very nice."
+                },
+        "Arwen": {"Relationship": "Friend.",
+                "Description": "A Sheltie. She is very friendly and will play and run with Marble for a long time if her owners are just hanging out outside. Arwen is often running around outside with the daughters.",
+                "Image": "",
+                "Owner":"An English speaking couple. The husband is from the Middle East but I have never spoken to him. The wife is Czech, speaks perfect English and is very nice. She has three young girls, the oldes of whom speaks basic English as well."
+                },
+        "Colliani": {"Relationship": "Friend.",
+                "Description": "A Short hair Collie. She is very friendly and will play and run with Marble for a long time if her owners are just hanging out outside. Colliani is often running around outside with the daughters.",
+                "Image": "",
+                "Owner": "An English speaking Czech family that lived in Italy for a while."    
+            },
+        "UnknownBrderCollie": {"Relationship": "Friend.",
+                "Description": "A Border Collie. She is very friendly and will play and run with Marble for a long time if her owners are just hanging out outside. She is often running around outside with the daughters.",
+                "Image": "",
+                "Owner": "A nice older Czech couple that doesn't speak English."
+                
+            }
+        
+        
+    }
 },
 "Food": {
     "No": [
@@ -100,7 +134,10 @@
     "Whining": "She never whines. If she wines it is because she is hurt or sick and should be met with serious attention.",
     "Yelping": "She is hurt or sick and should be met with serious attention. However sometimes she helps if she is scared that something is about to hurt her. Like if a big dog knocked her over while playing.",
     "HandOnYou": "She is asking for treats/food.",
-    "JumpingOnYou": "If you have food or she hasn't seen you in a long time it's excitement. If she starts jumping on you when you are sitting down it's a sign that she wants to poop really badly."
+    "JumpingOnYou": "If you have food or she hasn't seen you in a long time it's excitement. If she starts jumping on you when you are sitting down it's a sign that she wants to poop really badly.",
+    "Licking": "She licks or boops with her nose to say 'Yes'. She also licks to say 'I Love You' as well as to say 'I'm Sorry' and 'Please Stop'.",
+    "NoseTouch": "She licks or boops with her nose to say 'Yes'.",
+    "Biting": "She lightly bites to say 'No' and 'Please Stop'. For example if I am brushing her she will lightly bite the brush or lick my hand to say 'Please Stop'."
 },
 "Vocabulary": {
     "Marble": "Her name. She responds with eye contact. Can also be called to you with this name.",
